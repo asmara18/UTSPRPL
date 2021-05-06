@@ -1,0 +1,11 @@
+Nama: Herdin Asmara Timor
+Nim: 1900018212
+Kelas: D
+
+$ git clone gh repo clone Herdin-Asmara-Timor/prpl2021
+$ git config --global user.name "herdinasmaratimor123".
+$ git config --global user.email "erdinsumbawa7@gmail.com"
+$ git remote set-url origin https://github.com/Herdin-Asmara-Timor/prpl2021
+$ git push -u origin Herdin_Asmara_Timor_D_1900018212
+$ git add *
+$ git commit -m "prpl"
